@@ -5,6 +5,9 @@ Este é um projeto feito em Python com Streamlit para calcular DPS de diferentes
 how to install ->
 
 git clone https://github.com/skoolag3/calcdps.git
+
 cd calcdps
+
 pip install -r requirements.txt
+
 streamlit run ini.py
